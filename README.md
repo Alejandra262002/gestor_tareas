@@ -1,7 +1,6 @@
 # 📋 Gestor de Tareas en Python
 
-Este es un proyecto sencillo desarrollado en **Python**, que permite gestionar una lista de tareas desde la terminal.  
-Ideal para practicar lógica de programación, estructuras de datos y el uso de funciones en Python.
+Este es un proyecto sencillo desarrollado en **Python**, que permite gestionar una lista de tareas desde la terminal. 
 
 ---
 
